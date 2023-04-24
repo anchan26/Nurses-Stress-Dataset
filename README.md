@@ -1,4 +1,4 @@
-# The Nursing Index: A multimodal sensor dataset
+# The Nursing Index: A Multimodal Sensor Dataset
 
 ### Project Name
 This project aims to detect stress level changes using physiological signals, specifically electrodermal activity (EDA), skin temperature, and heart rate. The project uses a sliding window approach to extract features from the physiological signals and applies the cumulative sum (CUSUM) algorithm to detect changes in stress levels.
@@ -11,6 +11,7 @@ This project aims to detect stress level changes using physiological signals, sp
 
 ## Getting Started
 This project is based on the research paper "A multimodal sensor dataset for continuous stress detection of nurses in a hospital" by Seyedmajid Hosseini, Raju Gottumukkala, Satya Katragadda, Ravi teja Bhupatiraju, Ziad ashkar, Christoph W. Borst, and Kenneth Cochran. 
+Link to the research paper: https://arxiv.org/abs/2108.07689
 
 The dataset used in this project can be found at https://doi.org/10.5061/dryad.5hqbzkh6f.
 
